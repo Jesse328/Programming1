@@ -1,0 +1,12 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\Me.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\Me.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\Me.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\obj\Debug\Me.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\obj\Debug\Me.MainForm.resources
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\obj\Debug\Me.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Me\obj\Debug\Me.exe

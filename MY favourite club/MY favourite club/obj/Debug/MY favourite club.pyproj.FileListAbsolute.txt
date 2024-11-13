@@ -1,0 +1,12 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\MY favourite club.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\MY favourite club.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\MY favourite club.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\obj\Debug\MY favourite club.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\obj\Debug\MY_favourite_club.MainForm.resources
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\obj\Debug\MY favourite club.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\MY favourite club\MY favourite club\obj\Debug\MY favourite club.exe

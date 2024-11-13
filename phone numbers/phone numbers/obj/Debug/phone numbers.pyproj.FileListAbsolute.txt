@@ -1,0 +1,12 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\obj\Debug\phone numbers.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\obj\Debug\phone_numbers.MainForm.resources
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\obj\Debug\phone numbers.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\phone numbers.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\phone numbers.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\phone numbers.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\phone numbers\phone numbers\obj\Debug\phone numbers.exe

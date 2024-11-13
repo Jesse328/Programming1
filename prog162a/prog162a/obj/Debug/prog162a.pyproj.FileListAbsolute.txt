@@ -1,0 +1,10 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\prog162a.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\prog162a.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\prog162a.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\obj\Debug\prog162a.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162a\prog162a\obj\Debug\prog162a.exe

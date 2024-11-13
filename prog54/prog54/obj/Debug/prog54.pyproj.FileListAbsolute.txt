@@ -1,0 +1,12 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\obj\Debug\prog54.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\obj\Debug\prog54.MainForm.resources
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\obj\Debug\prog54.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\prog54.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\prog54.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\prog54.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog54\prog54\obj\Debug\prog54.exe

@@ -1,0 +1,12 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\Mathematics.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\Mathematics.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\Mathematics.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\obj\Debug\Mathematics.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\obj\Debug\Mathematics.MainForm.resources
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\obj\Debug\Mathematics.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\Mathematics\Mathematics\obj\Debug\Mathematics.exe

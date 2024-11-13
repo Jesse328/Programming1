@@ -1,0 +1,3 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162b\prog162b\obj\Debug\prog162b.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162b\prog162b\obj\Debug\prog162b.MainForm.resources
+C:\Users\huang.t\Documents\SharpDevelop Projects\prog162b\prog162b\obj\Debug\prog162b.pyproj.GenerateResource.Cache

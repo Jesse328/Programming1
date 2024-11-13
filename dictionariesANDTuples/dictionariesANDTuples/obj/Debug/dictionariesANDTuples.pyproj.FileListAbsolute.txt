@@ -1,0 +1,10 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\dictionariesANDTuples.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\dictionariesANDTuples.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\dictionariesANDTuples.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\obj\Debug\dictionariesANDTuples.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\dictionariesANDTuples\dictionariesANDTuples\obj\Debug\dictionariesANDTuples.exe

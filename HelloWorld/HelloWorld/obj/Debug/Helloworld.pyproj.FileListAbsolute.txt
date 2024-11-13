@@ -1,0 +1,10 @@
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\Helloworld.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\IronPython.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\obj\Debug\Helloworld.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Documents\SharpDevelop Projects\Helloworld\Helloworld\obj\Debug\Helloworld.exe
