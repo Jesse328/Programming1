@@ -1,0 +1,12 @@
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\obj\Debug\slotmachine.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\obj\Debug\slotmachine.MainForm.resources
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\obj\Debug\slotmachine.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\slotmachine.exe.config
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\slotmachine.exe
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\slotmachine.dll
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\IronPython.dll
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Desktop\Programming1\slotmachine\slotmachine\obj\Debug\slotmachine.exe

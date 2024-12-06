@@ -1,0 +1,12 @@
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\prog140.exe.config
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\prog140.exe
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\prog140.dll
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\IronPython.dll
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\obj\Debug\prog140.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\obj\Debug\prog140.MainForm.resources
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\obj\Debug\prog140.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Desktop\Programming1\prog140\prog140\obj\Debug\prog140.exe

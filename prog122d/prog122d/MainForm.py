@@ -56,7 +56,7 @@ class MainForm(Form):
         # MainForm
         # 
         self.BackColor = System.Drawing.SystemColors.ActiveCaption
-        self.ClientSize = System.Drawing.Size(459, 295)
+        self.ClientSize = System.Drawing.Size(395, 349)
         self.Controls.Add(self._button3)
         self.Controls.Add(self._button2)
         self.Controls.Add(self._button1)
