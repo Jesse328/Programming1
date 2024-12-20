@@ -30,13 +30,14 @@ class MainForm(Form):
         self._label14 = System.Windows.Forms.Label()
         self._label15 = System.Windows.Forms.Label()
         self._label16 = System.Windows.Forms.Label()
-        self._textBox8 = System.Windows.Forms.TextBox()
-        self._textBox9 = System.Windows.Forms.TextBox()
-        self._textBox10 = System.Windows.Forms.TextBox()
         self._button1 = System.Windows.Forms.Button()
         self._button2 = System.Windows.Forms.Button()
         self._button3 = System.Windows.Forms.Button()
         self._label17 = System.Windows.Forms.Label()
+        self._label18 = System.Windows.Forms.Label()
+        self._label19 = System.Windows.Forms.Label()
+        self._label20 = System.Windows.Forms.Label()
+        self._label21 = System.Windows.Forms.Label()
         self.SuspendLayout()
         # 
         # label1
@@ -216,27 +217,6 @@ class MainForm(Form):
         self._label16.Text = "Tax:"
         self._label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         # 
-        # textBox8
-        # 
-        self._textBox8.Location = System.Drawing.Point(292, 377)
-        self._textBox8.Name = "textBox8"
-        self._textBox8.Size = System.Drawing.Size(97, 21)
-        self._textBox8.TabIndex = 23
-        # 
-        # textBox9
-        # 
-        self._textBox9.Location = System.Drawing.Point(293, 413)
-        self._textBox9.Name = "textBox9"
-        self._textBox9.Size = System.Drawing.Size(97, 21)
-        self._textBox9.TabIndex = 24
-        # 
-        # textBox10
-        # 
-        self._textBox10.Location = System.Drawing.Point(293, 451)
-        self._textBox10.Name = "textBox10"
-        self._textBox10.Size = System.Drawing.Size(97, 21)
-        self._textBox10.TabIndex = 25
-        # 
         # button1
         # 
         self._button1.Location = System.Drawing.Point(32, 476)
@@ -255,6 +235,7 @@ class MainForm(Form):
         self._button2.TabIndex = 27
         self._button2.Text = "clear"
         self._button2.UseVisualStyleBackColor = True
+        self._button2.Click += self.Button2Click
         # 
         # button3
         # 
@@ -264,6 +245,7 @@ class MainForm(Form):
         self._button3.TabIndex = 28
         self._button3.Text = "Exit"
         self._button3.UseVisualStyleBackColor = True
+        self._button3.Click += self.Button3Click
         # 
         # label17
         # 
@@ -274,16 +256,50 @@ class MainForm(Form):
         self._label17.TabIndex = 29
         self._label17.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         # 
+        # label18
+        # 
+        self._label18.BackColor = System.Drawing.Color.White
+        self._label18.Location = System.Drawing.Point(293, 343)
+        self._label18.Name = "label18"
+        self._label18.Size = System.Drawing.Size(96, 20)
+        self._label18.TabIndex = 30
+        self._label18.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        # 
+        # label19
+        # 
+        self._label19.BackColor = System.Drawing.Color.White
+        self._label19.Location = System.Drawing.Point(292, 380)
+        self._label19.Name = "label19"
+        self._label19.Size = System.Drawing.Size(95, 17)
+        self._label19.TabIndex = 31
+        # 
+        # label20
+        # 
+        self._label20.BackColor = System.Drawing.Color.White
+        self._label20.Location = System.Drawing.Point(292, 413)
+        self._label20.Name = "label20"
+        self._label20.Size = System.Drawing.Size(95, 17)
+        self._label20.TabIndex = 32
+        # 
+        # label21
+        # 
+        self._label21.BackColor = System.Drawing.Color.White
+        self._label21.Location = System.Drawing.Point(292, 451)
+        self._label21.Name = "label21"
+        self._label21.Size = System.Drawing.Size(95, 17)
+        self._label21.TabIndex = 33
+        # 
         # MainForm
         # 
         self.ClientSize = System.Drawing.Size(557, 541)
+        self.Controls.Add(self._label21)
+        self.Controls.Add(self._label20)
+        self.Controls.Add(self._label19)
+        self.Controls.Add(self._label18)
         self.Controls.Add(self._label17)
         self.Controls.Add(self._button3)
         self.Controls.Add(self._button2)
         self.Controls.Add(self._button1)
-        self.Controls.Add(self._textBox10)
-        self.Controls.Add(self._textBox9)
-        self.Controls.Add(self._textBox8)
         self.Controls.Add(self._label16)
         self.Controls.Add(self._label15)
         self.Controls.Add(self._label14)
@@ -316,27 +332,49 @@ class MainForm(Form):
   
 
     def MainFormLoad(self, sender, e):
-        self._label2.Text = date.today().strftime("%A, %B %d, %Y")
-        self._label2.text = time.strftime("%I:%M:%S %p")
+        self._label2.Text = date.today().strftime("%10, %15 %12, %18")
+        self._label2.text = time.strftime("%5:%10:%12 %15")
 
     def Button1Click(self, sender, e):           
         decRoomCharges = 0.0
-        decaddcharges = 0.0
+        decAddCharges = 0.0
         decSubtotal = 0.0
         decTax = 0.0
         decTotal = 0.0
         decTAX_RATE = 0.08
-        try:
-            decAddcharges = float(self._textBox3.Text) +  float(self._textBox4.Text) +  float(self._textBox5.Text)
-            self._textBox7.Text = str(round(decAddCharges, 2))
-        except:
+       
+            decAddCharges = float(self._textBox3.Text) +  float(self._textBox4.Text) +  float(self._textBox5.Text)
+            self._label18.Text = str(round(decAddCharges, 2))
+            
+        
             MessageBox.Show("Room Service, Telephone, and Misc. must be numbers", "Error")
             
-        try:
-            decRoomCharge = float(self._textBox1.Text) +  float(self._textBox2.Text)
-            self._textBox7
-            self.label.Text = str(round(decAddCharges, 2))
-           
+            decRoomCharges = float(self._textBox1.Text) +  float(self._textBox2.Text)
+            self._label17.Text = str(round(decRoomCharges, 2))
+ 
+            MessageBox.Show("Nights and Nightly Charge must be numbers", "Error")
             
-       
+            decSubtotal = decRoomCharge + decAddcharges
+            self._label19.Text = str(round(decRoomCharges, 2))
+            
+            decTax = decSubtital * decTAX.RATE
+            self._label20.Text = str(round(decTax, 2))
+            
+            decTotal = decSubtital + decTax
+            self._label21.Text = ste(round(decTotal, 2))
+            
+    def Button2Click(self, sender, e):
+        self._textBox1.Text = ""
+        self._textBox2.Text = ""
+        self._textBox3.Text = ""
+        self._textBox4.Text = ""
+        self._textBox5.Text = ""
+        self._label17.Text = ""
+        self._label18.Text = ""
+        self._label19.Text = ""
+        self._label20.Text = ""
+        self._label21.Text = ""
         
+    
+    def Button3Click(self, sender, e):
+        Application.Exit()

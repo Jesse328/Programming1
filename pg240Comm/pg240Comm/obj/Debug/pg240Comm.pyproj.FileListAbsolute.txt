@@ -1,0 +1,12 @@
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\obj\Debug\pg240Comm.pyprojResolveAssemblyReference.cache
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\obj\Debug\pg240Comm.MainForm.resources
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\obj\Debug\pg240Comm.pyproj.GenerateResource.Cache
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\pg240Comm.exe.config
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\pg240Comm.exe
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\pg240Comm.dll
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\IronPython.dll
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\IronPython.Modules.dll
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\huang.t\Desktop\Programming1\pg240Comm\pg240Comm\obj\Debug\pg240Comm.exe
